@@ -31,4 +31,6 @@ Following these steps protects your identity and funds while trading on Black Op
 
 Start safely with the official Black Ops secure link: **http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion**
 
-Update:  Thursday 18 September 2025 url is now available and clickable
+
+
+Update:  01 October 2025 Fixed broken link
